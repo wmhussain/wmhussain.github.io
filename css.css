@@ -1,20 +1,33 @@
+.box{
+	background-color:#E8E8E8;
 
+}
 .men li{
 	border-bottom:1px solid #fff;
 
 }
 .men li a{
-	background-color:#33CCFF;
-	color:#003366;
+	background-color:#3e4d5c;
+	color:white;
 }
 
 .men li a:hover{
-	background-color:#33CCFF;
+	background-color:#999999;
+}
+
+.menu li{
+	margin-left:15px;
 }
 
 
 .menu li a{
-	background-color:#FFFF99;
+	background-color:#fff;
+	line-height:15px;
+	color:black;
+	
+}
+.men li a:focus{
+	background-color:#3e4d5c;
 }
 
 .spn{
@@ -23,10 +36,26 @@
 
 .hdr{
 background-color:#3e4d5c;
+
 }
 
 .txt{
 color:#fff;
+}
+
+.txt a{
+color:#fff;
+
+}
+
+.txt a:hover{
+	text-decoration:underline;
+	color:#fff;
+}
+
+.txt1{
+color:#fff;
+
 }
 
 .line{
@@ -44,3 +73,16 @@ text-align:justify;
 line-height:20px;
 
 }
+
+.edit{
+	float:right;	
+	font-size:20px;		
+}
+
+.foot{
+	background-color:#3e4d5c;
+	color:#fff;
+	text-align:center;
+	
+}
+
