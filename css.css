@@ -1,5 +1,5 @@
 .box{
-	background-color:#E8E8E8;
+	background-color:#F8F8F8;
 
 }
 .men li{
@@ -9,6 +9,8 @@
 .men li a{
 	background-color:#3e4d5c;
 	color:white;
+	font-family:'Segoe UI Condensed','Segoe UI','Segoe WP',Tahoma,Arial,sans-serif !important;
+	
 }
 
 .men li a:hover{
@@ -24,6 +26,7 @@
 	background-color:#fff;
 	line-height:15px;
 	color:black;
+	font-family:'Segoe UI Condensed','Segoe UI','Segoe WP',Tahoma,Arial,sans-serif !important;
 	
 }
 .men li a:focus{
@@ -39,23 +42,38 @@ background-color:#3e4d5c;
 
 }
 
-.txt{
+.txth a{
+font-weight:200;
+font-size:20px;
+letter-spacing:-.01em;
+line-height:1.22;
 color:#fff;
+
 }
 
-.txt a{
-color:#fff;
-
+.space{
+	margin-left:25px;
 }
 
+.txt2,  .txt2 a, .txt a, .txt1{
+color:#fff;
+font-family:'Segoe UI Condensed','Segoe UI','Segoe WP',Tahoma,Arial,sans-serif !important;
+}
+.txt {
+color:#fff;
+font-size:15px;
+}
+
+.txtho {
+color:#fff;
+font-size:20px;
+}
+
+font-family:'Segoe UI Condensed','Segoe UI','Segoe WP',Tahoma,Arial,sans-serif !important;
+}
 .txt a:hover{
 	text-decoration:underline;
 	color:#fff;
-}
-
-.txt1{
-color:#fff;
-
 }
 
 .line{
@@ -73,16 +91,33 @@ text-align:justify;
 line-height:20px;
 
 }
-
-.edit{
-	float:right;	
-	font-size:20px;		
+.edit1{
+	
+	margin-top:30px;
+	margin-bottom:15px;
+	margin-left:59px;	
+	font-size:13px;	
+	
 }
 
-.foot{
-	background-color:#3e4d5c;
-	color:#fff;
-	text-align:center;
-	
+.edit{
+		
+	font-size:18px;	
+	font-family:'Segoe UI Condensed','Segoe UI','Segoe WP',Tahoma,Arial,sans-serif !important;	
+}
+
+.edit a{
+	color:black;
+}
+
+.rtxt{
+color:#0066FF;
+font-weight:600;
+font-family:'Segoe UI Condensed','Segoe UI','Segoe WP',Tahoma,Arial,sans-serif !important;
+margin-left:-18px;
+}
+
+.rctxt{
+font-family:'Segoe UI Condensed','Segoe UI','Segoe WP',Tahoma,Arial,sans-serif !important;
 }
 
