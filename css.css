@@ -1,0 +1,151 @@
+.box{
+	background-color:#F4F4F4;
+
+}
+.men li{
+	border-bottom:1px solid #fff;
+
+}
+.men li a{
+	background-color:#333333;
+	color:white;
+	font-family:'Segoe UI Condensed','Segoe UI','Segoe WP',Tahoma,Arial,sans-serif;
+	
+}
+
+.men li a:hover{
+	background-color:#999999;
+}
+
+.menu li{
+	margin-left:15px;
+}
+
+
+.menu li a{
+	background-color:#fff;
+	line-height:15px;
+	color:black;
+	font-family:'Segoe UI Condensed','Segoe UI','Segoe WP',Tahoma,Arial,sans-serif;
+	
+}
+.men li a:focus{
+	background-color:#3e4d5c;
+}
+
+.spn{
+	font-size:14px;
+}
+
+.hdr{
+background-color:#333333;
+
+}
+
+.txth a{
+font-family:'Segoe UI Condensed','Segoe UI','Segoe WP',Tahoma,Arial,sans-serif;
+font-weight:400;
+font-size:20px;
+letter-spacing:-.01em;
+line-height:1.5;
+color:#00abec;
+
+}
+
+.space{
+	margin-left:25px;
+}
+
+.txt2,  .txt2 a, .txt1{
+color:#fff;
+font-family:'Segoe UI Condensed','Segoe UI','Segoe WP',Tahoma,Arial,sans-serif;
+}
+
+
+.txt a{
+color:#fff;
+font-family:'Segoe UI Condensed','Segoe UI','Segoe WP',Tahoma,Arial,sans-serif;
+font-weight:400;
+font-size:15px;
+letter-spacing:-.01em;
+line-height:1.5;
+text-decoration:none;
+}
+
+.txtf{
+	color:#fff;
+	font-size:15px;
+	font-weight:400;
+	}
+
+.txt:hover{
+	color:#0050c5;
+	}
+
+
+.txtho {
+color:#00abec;
+font-size:20px;
+text-decoration:none;
+}
+
+.txt a:hover{
+	text-decoration:underline;
+	color:#fff;
+}
+
+.line{
+border-left:1px solid #000066;
+}
+
+.content{
+margin-left:50px;
+}
+
+.para{
+
+font-family:Arial, Helvetica, sans-serif;
+text-align:justify;
+line-height:20px;
+
+}
+.edit1{
+	
+	margin-top:30px;
+	margin-bottom:15px;
+	margin-left:59px;	
+	font-size:13px;	
+	
+}
+
+.edit{
+font-family:'Segoe UI Condensed','Segoe UI','Segoe WP',Tahoma,Arial,sans-serif;
+font-weight:400;
+font-size:15px;
+letter-spacing:-.01em;
+line-height:1.5;
+text-decoration:none;
+}
+
+.edit a{
+	color:black;
+}
+
+.rtxt{
+color:#00abec;
+font-family:'Segoe UI Condensed','Segoe UI','Segoe WP',Tahoma,Arial,sans-serif;
+font-weight:400;
+font-size:20px;
+line-height:1.5;
+text-decoration:none;
+margin-left:-18px;
+}
+
+.rctxt{
+font-family:'Segoe UI Condensed','Segoe UI','Segoe WP',Tahoma,Arial,sans-serif;
+}
+
+.space{
+	margin-left:60px;
+}
+
